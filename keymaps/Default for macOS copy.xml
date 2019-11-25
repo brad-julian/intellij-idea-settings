@@ -1,10 +1,16 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
