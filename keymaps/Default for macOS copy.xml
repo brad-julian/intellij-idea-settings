@@ -14,6 +14,11 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
