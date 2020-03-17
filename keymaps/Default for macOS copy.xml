@@ -22,6 +22,19 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoRelated" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
