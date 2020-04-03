@@ -4,6 +4,9 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -11,9 +14,23 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <mouse-shortcut keystroke="meta button142" />
+  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <mouse-shortcut keystroke="meta button143" />
+  </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -26,6 +43,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoRelated" />
+  <action id="JumpToLastWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
@@ -50,6 +68,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta d" />
   </action>
