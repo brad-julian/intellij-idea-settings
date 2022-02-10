@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cortana'" />
-    <option name="defaultScopeName" value="Project 'cortana'" />
+    <option name="customScope" value="Directory '…/src/main/java/com/resonate/collectionv2 [cortana.main]'" />
+    <option name="defaultScopeName" value="Directory '…/src/main/java/com/resonate/collectionv2 [cortana.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cortana'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/src/main/java/com/resonate/collectionv2 [cortana.main]'" />
   </component>
 </application>
