@@ -8,7 +8,8 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
   </HTMLCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
@@ -17,6 +18,9 @@
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="5" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </PostgresCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
